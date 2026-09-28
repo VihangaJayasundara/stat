@@ -1,0 +1,15 @@
+{
+  "name": "customer-retention-intelligence-dashboard",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Task 10 Statistical Modelling Consultancy Proof-of-Concept: Customer Retention Intelligence Dashboard",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^6.2.0"
+  }
+}

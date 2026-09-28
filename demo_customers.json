@@ -1,0 +1,502 @@
+[
+  {
+    "CustomerID": 12346,
+    "Frequency": 2,
+    "Recency": 285,
+    "AverageOrderValue": 845.20,
+    "ProductDiversity": 28,
+    "CustomerTenure": 325,
+    "AveragePurchaseInterval": 40.0,
+    "HasPurchaseInterval": 1
+  },
+  {
+    "CustomerID": 12415,
+    "Frequency": 3,
+    "Recency": 260,
+    "AverageOrderValue": 1240.50,
+    "ProductDiversity": 34,
+    "CustomerTenure": 310,
+    "AveragePurchaseInterval": 25.0,
+    "HasPurchaseInterval": 1
+  },
+  {
+    "CustomerID": 12748,
+    "Frequency": 2,
+    "Recency": 295,
+    "AverageOrderValue": 620.00,
+    "ProductDiversity": 22,
+    "CustomerTenure": 315,
+    "AveragePurchaseInterval": 20.0,
+    "HasPurchaseInterval": 1
+  },
+  {
+    "CustomerID": 13089,
+    "Frequency": 3,
+    "Recency": 250,
+    "AverageOrderValue": 530.75,
+    "ProductDiversity": 30,
+    "CustomerTenure": 290,
+    "AveragePurchaseInterval": 20.0,
+    "HasPurchaseInterval": 1
+  },
+  {
+    "CustomerID": 14088,
+    "Frequency": 2,
+    "Recency": 275,
+    "AverageOrderValue": 710.30,
+    "ProductDiversity": 24,
+    "CustomerTenure": 340,
+    "AveragePurchaseInterval": 65.0,
+    "HasPurchaseInterval": 1
+  },
+  {
+    "CustomerID": 14646,
+    "Frequency": 3,
+    "Recency": 245,
+    "AverageOrderValue": 1820.00,
+    "ProductDiversity": 40,
+    "CustomerTenure": 360,
+    "AveragePurchaseInterval": 57.5,
+    "HasPurchaseInterval": 1
+  },
+  {
+    "CustomerID": 15311,
+    "Frequency": 2,
+    "Recency": 310,
+    "AverageOrderValue": 590.90,
+    "ProductDiversity": 18,
+    "CustomerTenure": 330,
+    "AveragePurchaseInterval": 20.0,
+    "HasPurchaseInterval": 1
+  },
+  {
+    "CustomerID": 16029,
+    "Frequency": 2,
+    "Recency": 280,
+    "AverageOrderValue": 920.00,
+    "ProductDiversity": 26,
+    "CustomerTenure": 280,
+    "AveragePurchaseInterval": 0.0,
+    "HasPurchaseInterval": 0
+  },
+  {
+    "CustomerID": 12347,
+    "Frequency": 7,
+    "Recency": 14,
+    "AverageOrderValue": 412.50,
+    "ProductDiversity": 104,
+    "CustomerTenure": 315,
+    "AveragePurchaseInterval": 48.2,
+    "HasPurchaseInterval": 1
+  },
+  {
+    "CustomerID": 12359,
+    "Frequency": 16,
+    "Recency": 8,
+    "AverageOrderValue": 580.40,
+    "ProductDiversity": 132,
+    "CustomerTenure": 345,
+    "AveragePurchaseInterval": 22.5,
+    "HasPurchaseInterval": 1
+  },
+  {
+    "CustomerID": 12362,
+    "Frequency": 11,
+    "Recency": 12,
+    "AverageOrderValue": 495.20,
+    "ProductDiversity": 92,
+    "CustomerTenure": 295,
+    "AveragePurchaseInterval": 28.3,
+    "HasPurchaseInterval": 1
+  },
+  {
+    "CustomerID": 12431,
+    "Frequency": 15,
+    "Recency": 19,
+    "AverageOrderValue": 610.00,
+    "ProductDiversity": 145,
+    "CustomerTenure": 355,
+    "AveragePurchaseInterval": 24.0,
+    "HasPurchaseInterval": 1
+  },
+  {
+    "CustomerID": 12471,
+    "Frequency": 22,
+    "Recency": 5,
+    "AverageOrderValue": 390.80,
+    "ProductDiversity": 180,
+    "CustomerTenure": 365,
+    "AveragePurchaseInterval": 16.4,
+    "HasPurchaseInterval": 1
+  },
+  {
+    "CustomerID": 12474,
+    "Frequency": 13,
+    "Recency": 16,
+    "AverageOrderValue": 340.50,
+    "ProductDiversity": 86,
+    "CustomerTenure": 270,
+    "AveragePurchaseInterval": 21.2,
+    "HasPurchaseInterval": 1
+  },
+  {
+    "CustomerID": 12540,
+    "Frequency": 19,
+    "Recency": 9,
+    "AverageOrderValue": 460.10,
+    "ProductDiversity": 125,
+    "CustomerTenure": 335,
+    "AveragePurchaseInterval": 18.1,
+    "HasPurchaseInterval": 1
+  },
+  {
+    "CustomerID": 12621,
+    "Frequency": 8,
+    "Recency": 22,
+    "AverageOrderValue": 520.30,
+    "ProductDiversity": 98,
+    "CustomerTenure": 285,
+    "AveragePurchaseInterval": 38.6,
+    "HasPurchaseInterval": 1
+  },
+  {
+    "CustomerID": 12681,
+    "Frequency": 17,
+    "Recency": 11,
+    "AverageOrderValue": 710.00,
+    "ProductDiversity": 150,
+    "CustomerTenure": 360,
+    "AveragePurchaseInterval": 21.8,
+    "HasPurchaseInterval": 1
+  },
+  {
+    "CustomerID": 12720,
+    "Frequency": 9,
+    "Recency": 25,
+    "AverageOrderValue": 385.00,
+    "ProductDiversity": 82,
+    "CustomerTenure": 240,
+    "AveragePurchaseInterval": 29.3,
+    "HasPurchaseInterval": 1
+  },
+  {
+    "CustomerID": 12744,
+    "Frequency": 6,
+    "Recency": 18,
+    "AverageOrderValue": 430.20,
+    "ProductDiversity": 64,
+    "CustomerTenure": 190,
+    "AveragePurchaseInterval": 34.4,
+    "HasPurchaseInterval": 1
+  },
+  {
+    "CustomerID": 12820,
+    "Frequency": 3,
+    "Recency": 105,
+    "AverageOrderValue": 680.00,
+    "ProductDiversity": 14,
+    "CustomerTenure": 180,
+    "AveragePurchaseInterval": 37.5,
+    "HasPurchaseInterval": 1
+  },
+  {
+    "CustomerID": 12901,
+    "Frequency": 4,
+    "Recency": 95,
+    "AverageOrderValue": 950.40,
+    "ProductDiversity": 16,
+    "CustomerTenure": 210,
+    "AveragePurchaseInterval": 38.3,
+    "HasPurchaseInterval": 1
+  },
+  {
+    "CustomerID": 13018,
+    "Frequency": 3,
+    "Recency": 110,
+    "AverageOrderValue": 740.00,
+    "ProductDiversity": 12,
+    "CustomerTenure": 150,
+    "AveragePurchaseInterval": 20.0,
+    "HasPurchaseInterval": 1
+  },
+  {
+    "CustomerID": 13263,
+    "Frequency": 3,
+    "Recency": 115,
+    "AverageOrderValue": 560.50,
+    "ProductDiversity": 15,
+    "CustomerTenure": 190,
+    "AveragePurchaseInterval": 37.5,
+    "HasPurchaseInterval": 1
+  },
+  {
+    "CustomerID": 13408,
+    "Frequency": 4,
+    "Recency": 90,
+    "AverageOrderValue": 810.00,
+    "ProductDiversity": 18,
+    "CustomerTenure": 225,
+    "AveragePurchaseInterval": 45.0,
+    "HasPurchaseInterval": 1
+  },
+  {
+    "CustomerID": 13576,
+    "Frequency": 3,
+    "Recency": 120,
+    "AverageOrderValue": 630.25,
+    "ProductDiversity": 16,
+    "CustomerTenure": 175,
+    "AveragePurchaseInterval": 27.5,
+    "HasPurchaseInterval": 1
+  },
+  {
+    "CustomerID": 13798,
+    "Frequency": 4,
+    "Recency": 85,
+    "AverageOrderValue": 720.00,
+    "ProductDiversity": 19,
+    "CustomerTenure": 240,
+    "AveragePurchaseInterval": 51.7,
+    "HasPurchaseInterval": 1
+  },
+  {
+    "CustomerID": 13880,
+    "Frequency": 4,
+    "Recency": 85,
+    "AverageOrderValue": 265.00,
+    "ProductDiversity": 42,
+    "CustomerTenure": 210,
+    "AveragePurchaseInterval": 41.7,
+    "HasPurchaseInterval": 1
+  },
+  {
+    "CustomerID": 14096,
+    "Frequency": 4,
+    "Recency": 90,
+    "AverageOrderValue": 285.50,
+    "ProductDiversity": 46,
+    "CustomerTenure": 230,
+    "AveragePurchaseInterval": 46.7,
+    "HasPurchaseInterval": 1
+  },
+  {
+    "CustomerID": 14298,
+    "Frequency": 4,
+    "Recency": 75,
+    "AverageOrderValue": 245.00,
+    "ProductDiversity": 50,
+    "CustomerTenure": 260,
+    "AveragePurchaseInterval": 61.7,
+    "HasPurchaseInterval": 1
+  },
+  {
+    "CustomerID": 14426,
+    "Frequency": 3,
+    "Recency": 110,
+    "AverageOrderValue": 240.00,
+    "ProductDiversity": 38,
+    "CustomerTenure": 195,
+    "AveragePurchaseInterval": 42.5,
+    "HasPurchaseInterval": 1
+  },
+  {
+    "CustomerID": 14527,
+    "Frequency": 4,
+    "Recency": 95,
+    "AverageOrderValue": 295.00,
+    "ProductDiversity": 45,
+    "CustomerTenure": 220,
+    "AveragePurchaseInterval": 41.7,
+    "HasPurchaseInterval": 1
+  },
+  {
+    "CustomerID": 14606,
+    "Frequency": 4,
+    "Recency": 100,
+    "AverageOrderValue": 220.00,
+    "ProductDiversity": 48,
+    "CustomerTenure": 250,
+    "AveragePurchaseInterval": 50.0,
+    "HasPurchaseInterval": 1
+  },
+  {
+    "CustomerID": 14733,
+    "Frequency": 3,
+    "Recency": 115,
+    "AverageOrderValue": 280.00,
+    "ProductDiversity": 40,
+    "CustomerTenure": 180,
+    "AveragePurchaseInterval": 32.5,
+    "HasPurchaseInterval": 1
+  },
+  {
+    "CustomerID": 14911,
+    "Frequency": 5,
+    "Recency": 70,
+    "AverageOrderValue": 275.00,
+    "ProductDiversity": 55,
+    "CustomerTenure": 275,
+    "AveragePurchaseInterval": 51.2,
+    "HasPurchaseInterval": 1
+  },
+  {
+    "CustomerID": 15005,
+    "Frequency": 3,
+    "Recency": 105,
+    "AverageOrderValue": 250.00,
+    "ProductDiversity": 39,
+    "CustomerTenure": 205,
+    "AveragePurchaseInterval": 50.0,
+    "HasPurchaseInterval": 1
+  },
+  {
+    "CustomerID": 15159,
+    "Frequency": 4,
+    "Recency": 80,
+    "AverageOrderValue": 290.00,
+    "ProductDiversity": 44,
+    "CustomerTenure": 240,
+    "AveragePurchaseInterval": 53.3,
+    "HasPurchaseInterval": 1
+  },
+  {
+    "CustomerID": 15290,
+    "Frequency": 1,
+    "Recency": 290,
+    "AverageOrderValue": 85.00,
+    "ProductDiversity": 8,
+    "CustomerTenure": 290,
+    "AveragePurchaseInterval": 0,
+    "HasPurchaseInterval": 0
+  },
+  {
+    "CustomerID": 15453,
+    "Frequency": 1,
+    "Recency": 315,
+    "AverageOrderValue": 120.00,
+    "ProductDiversity": 12,
+    "CustomerTenure": 315,
+    "AveragePurchaseInterval": 0,
+    "HasPurchaseInterval": 0
+  },
+  {
+    "CustomerID": 15601,
+    "Frequency": 2,
+    "Recency": 240,
+    "AverageOrderValue": 145.00,
+    "ProductDiversity": 14,
+    "CustomerTenure": 280,
+    "AveragePurchaseInterval": 40.0,
+    "HasPurchaseInterval": 1
+  },
+  {
+    "CustomerID": 15838,
+    "Frequency": 1,
+    "Recency": 340,
+    "AverageOrderValue": 65.50,
+    "ProductDiversity": 6,
+    "CustomerTenure": 340,
+    "AveragePurchaseInterval": 0,
+    "HasPurchaseInterval": 0
+  },
+  {
+    "CustomerID": 16180,
+    "Frequency": 2,
+    "Recency": 260,
+    "AverageOrderValue": 180.00,
+    "ProductDiversity": 18,
+    "CustomerTenure": 300,
+    "AveragePurchaseInterval": 40.0,
+    "HasPurchaseInterval": 1
+  },
+  {
+    "CustomerID": 16360,
+    "Frequency": 1,
+    "Recency": 275,
+    "AverageOrderValue": 95.00,
+    "ProductDiversity": 10,
+    "CustomerTenure": 275,
+    "AveragePurchaseInterval": 0,
+    "HasPurchaseInterval": 0
+  },
+  {
+    "CustomerID": 16549,
+    "Frequency": 1,
+    "Recency": 320,
+    "AverageOrderValue": 110.00,
+    "ProductDiversity": 9,
+    "CustomerTenure": 320,
+    "AveragePurchaseInterval": 0,
+    "HasPurchaseInterval": 0
+  },
+  {
+    "CustomerID": 16767,
+    "Frequency": 2,
+    "Recency": 250,
+    "AverageOrderValue": 160.00,
+    "ProductDiversity": 15,
+    "CustomerTenure": 310,
+    "AveragePurchaseInterval": 60.0,
+    "HasPurchaseInterval": 1
+  },
+  {
+    "CustomerID": 17097,
+    "Frequency": 1,
+    "Recency": 355,
+    "AverageOrderValue": 75.00,
+    "ProductDiversity": 7,
+    "CustomerTenure": 355,
+    "AveragePurchaseInterval": 0,
+    "HasPurchaseInterval": 0
+  },
+  {
+    "CustomerID": 17315,
+    "Frequency": 2,
+    "Recency": 235,
+    "AverageOrderValue": 195.00,
+    "ProductDiversity": 20,
+    "CustomerTenure": 290,
+    "AveragePurchaseInterval": 55.0,
+    "HasPurchaseInterval": 1
+  },
+  {
+    "CustomerID": 17504,
+    "Frequency": 1,
+    "Recency": 305,
+    "AverageOrderValue": 90.00,
+    "ProductDiversity": 8,
+    "CustomerTenure": 305,
+    "AveragePurchaseInterval": 0,
+    "HasPurchaseInterval": 0
+  },
+  {
+    "CustomerID": 17841,
+    "Frequency": 2,
+    "Recency": 270,
+    "AverageOrderValue": 140.00,
+    "ProductDiversity": 16,
+    "CustomerTenure": 320,
+    "AveragePurchaseInterval": 50.0,
+    "HasPurchaseInterval": 1
+  },
+  {
+    "CustomerID": 18077,
+    "Frequency": 1,
+    "Recency": 330,
+    "AverageOrderValue": 115.00,
+    "ProductDiversity": 11,
+    "CustomerTenure": 330,
+    "AveragePurchaseInterval": 0,
+    "HasPurchaseInterval": 0
+  },
+  {
+    "CustomerID": 18283,
+    "Frequency": 2,
+    "Recency": 220,
+    "AverageOrderValue": 175.00,
+    "ProductDiversity": 22,
+    "CustomerTenure": 260,
+    "AveragePurchaseInterval": 40.0,
+    "HasPurchaseInterval": 1
+  }
+]
